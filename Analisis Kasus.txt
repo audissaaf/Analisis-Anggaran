@@ -1,0 +1,66 @@
+
++---------+---------+--------+----------+
+|  Bulan  | Anggaran| Aktual | Perbedaan|
++---------+---------+--------+----------+
+| Januari |  10000  |  9000  |  -1000   |
+| Februari|  15000  | 16000  |   1000   |
+|  Maret  |  20000  | 19000  |  -1000   |
+|  April  |  25000  | 26000  |   1000   |
+|   Mei   |  30000  | 31000  |   1000   |
+|   Juni  |  35000  | 34000  |  -1000   |
++---------+---------+--------+----------+
+
+
+SOAL :
+Berdasarkan tabel di atas, berikan hasil analisis data, kesimpulan, serta rekomendasi yang dapat dilakukan oleh perusahaan!
+
+JAWABAN :
+1. Januari :
+   - Anggaran: 10,000
+   - Aktual: 9,000
+   - Perbedaan: -1,000
+   - Analisis: Perusahaan mengalami underperformance sebesar 1,000 dibandingkan anggaran.
+
+2. Februari :
+   - Anggaran: 15,000
+   - Aktual: 16,000
+   - Perbedaan: 1,000
+   - Analisis: Perusahaan mengalami overperformance sebesar 1,000 dibandingkan anggaran.
+
+3. Maret :
+   - Anggaran: 20,000
+   - Aktual: 19,000
+   - Perbedaan: -1,000
+   - Analisis: Perusahaan mengalami underperformance sebesar 1,000 dibandingkan anggaran.
+
+4. April :
+   - Anggaran: 25,000
+   - Aktual: 26,000
+   - Perbedaan: 1,000
+   - Analisis:  Perusahaan mengalami overperformance sebesar 1,000 dibandingkan anggaran.
+
+5. Mei :
+   - Anggaran: 30,000
+   - Aktual: 31,000
+   - Perbedaan: 1,000
+   - Analisis: Perusahaan mengalami overperformance sebesar 1,000 dibandingkan anggaran.
+
+6. Juni :
+   - Anggaran: 35,000
+   - Aktual: 34,000
+   - Perbedaan: -1,000
+   - Analisis: Perusahaan mengalami underperformance sebesar 1,000 dibandingkan anggaran.
+
+Kesimpulan :
+1. Keseimbangan Total : Total anggaran dan total aktual berimbang (135,000), namun terdapat fluktuasi bulanan yang menunjukkan periode underperformance dan overperformance.
+2. Periode Overperformance : Februari, April, dan Mei menunjukkan hasil aktual yang lebih tinggi dari anggaran. Hal ini mungkin disebabkan oleh peningkatan penjualan atau efisiensi operasional selama bulan-bulan tersebut.
+3. Periode Underperformance : Januari, Maret, dan Juni menunjukkan hasil aktual yang lebih rendah dari anggaran. Faktor-faktor seperti penurunan permintaan, meningkatnya biaya, atau masalah operasional dapat menyebabkan underperformance ini.
+4. Pentingnya Monitoring : Perusahaan perlu memonitor kinerja keuangan bulanan secara lebih ketat untuk mengidentifikasi dan mengatasi penyebab underperformance. Selain itu, perusahaan harus mempertahankan dan meningkatkan faktor-faktor yang berkontribusi terhadap overperformance.
+
+Rekomendasi :
+1. Investigasi Penyebab Underperformance : Lakukan analisis lebih mendalam untuk memahami penyebab underperformance di bulan Januari, Maret, dan Juni.
+2. Optimalisasi Operasional : Identifikasi dan terapkan praktik terbaik yang menghasilkan overperformance di bulan Februari, April, dan Mei ke bulan-bulan lainnya.
+3. Kontrol Biaya : Pastikan bahwa pengeluaran dikendalikan dengan baik untuk meminimalkan penyimpangan dari anggaran.
+4. Perencanaan Strategis : Gunakan temuan ini untuk memperbaiki proses perencanaan anggaran di masa mendatang agar lebih akurat dan realistis.
+
+Analisis ini memberikan gambaran yang jelas tentang bagaimana perusahaan berkinerja dibandingkan dengan anggaran yang telah ditetapkan dan memberikan wawasan tentang area yang perlu diperbaiki atau ditingkatkan.
